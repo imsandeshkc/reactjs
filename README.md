@@ -1,2 +1,2 @@
 # reactjs
-This is ReactJS Project by SANDESH KC
+This is ReactJS Project. Author - SANDESH KC
